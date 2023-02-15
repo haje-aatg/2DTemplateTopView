@@ -1,3 +1,9 @@
+//  TopView by haje-aatg (Hans-ChristianBJensen)
+// An assignment template for a 2D array containing objects
+// Contains no comments, since the student needs to make these
+//
+// Link: https://github.com/haje-aatg/2DTemplateTopView
+
 class WorldObject {
   byte squaresize, health;
   //boolean running = true;

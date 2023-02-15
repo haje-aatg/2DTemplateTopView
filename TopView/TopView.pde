@@ -1,8 +1,8 @@
-//  TopView by
-// An assignment template
+//  TopView by haje-aatg (Hans-ChristianBJensen)
+// An assignment template for a 2D array containing objects
+// Contains no comments, since the student needs to make these
 //
-//
-// Link: https://www.openprocessing.org/sketch/816638
+// Link: https://github.com/haje-aatg/2DTemplateTopView
 
 World[][] worldOne;
 Player player = new Player();
